@@ -20,4 +20,4 @@ Define testcase variable accordingly to desired key length breaking:</br>
 Run, wait until program stops and gives the Key</br>
 ### Run Time
 20 bit key, should take around 1 second for all implementations</br>
-32 bit key, should take around 3 minutes for CPP and 12 seconds for CUDA </br>
+32 bit key, should take around 3 minutes for the C and CPP and 12 seconds for CUDA </br>
