@@ -1,0 +1,15 @@
+Handle.txt
+Handle.py
+
+*.vscode
+
+*.vs
+*Debug
+*Release
+*x64
+
+*.idea
+
+*.zip
+
+*Report
