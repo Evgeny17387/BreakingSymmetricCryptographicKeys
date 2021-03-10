@@ -10,7 +10,7 @@ The key for success here is to use optimized algorithm for encruption and CUDA</
 ### Directory Structure
 Cipher.pdf 		- Cipher specification</br>
 Cipher_C 		- Cipher breaking implemented in C, build using make file</br>
-Cipher_CPP 		- Cipher breaking implemented in CPP, build using Visual Studio</br>
+Cipher_Cpp 		- Cipher breaking implemented in CPP, build using Visual Studio</br>
 Cipher_Cuda 	- Cipher breaking implemented in CUDA, build using Visual Studio</br>
 Cipher_Python 	- Cipher implemented in Python (no breaking)</br>
 ### How to Run
@@ -20,4 +20,4 @@ Define testcase variable accordingly to desired key length breaking:</br>
 Run, wait until program stops and gives the Key</br>
 ### Run Time
 20 bit key, should take around 1 second for all implementations</br>
-32 bit key, should take around 3 minutes for the C and CPP and 12 seconds for CUDA </br>
+32 bit key, should take around 1 minute for C and Cpp and 12 seconds for Cuda </br>
